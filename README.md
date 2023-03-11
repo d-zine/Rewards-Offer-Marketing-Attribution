@@ -128,8 +128,9 @@ Actionable recommendations to answer the original business question:
 4.	Feature engineer to enhance dashboard metrics, such as average time to complete an offer.
 5.	Create and evaluate a marketing attribution model. Productionize model.
 
+### Conclusion
 
-To conclude, this is just Part I of the Starbucks Rewards Offer Marketing Attribution Data Science Project.
+In summary, this is just Part I of the Starbucks Rewards Offer Marketing Attribution Data Science Project.
 
 This project will follow CRISP-DM, which stands for Cross-Industry Standard Process for Data Mining. It is a cross industry standard framework that serves as a guide for a data science process.
 

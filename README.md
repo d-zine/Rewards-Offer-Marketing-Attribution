@@ -28,7 +28,7 @@ There are three tables:
 3.	The types of reward variants that were sent to users through what channels.
 
 
-Let’s understand our customers in this dataset through descriptive statistics first.
+### Let’s understand our customers in this dataset through descriptive statistics first.
 
 
 ### 1.	Starbucks member user growth in this sample is exponential. 

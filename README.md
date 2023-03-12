@@ -45,7 +45,7 @@ The growth rate of Starbucks member user sign ups in our sample was exponential 
 <img src="images/2 Cohort Analysis.png" width=800>
 </p>
 
-Through cohort analysis, if we analyze transaction data by customer cohort sign up year, we find these customers represent $1.8M in Starbucks gross revenue over the course of [a month](https://medium.com/analytics-vidhya/starbucks-reward-program-analysis-323b017f0c3e/). Calculating the average spend over one month shows that customers spend $3.5 per day at Starbucks, which is almost the price of a coffee or tea per day. While there were sharp increases in user sign ups between 2013 and 2017, the 2016 cohort spent the most on average per person.
+Through cohort analysis, if we analyze transaction data by customer cohort sign up year, we find these customers represent $1.8M in Starbucks gross revenue over the course of [one month](https://medium.com/analytics-vidhya/starbucks-reward-program-analysis-323b017f0c3e/). Calculating the average spend over one month shows that customers spend $3.5 per day at Starbucks, which is almost the price of a coffee or tea per day. While there were sharp increases in user sign ups between 2013 and 2017, the 2016 cohort spent the most on average per person.
 
 ### 3. Starbucks average spend increases with customer age. 
 
@@ -191,11 +191,11 @@ Actionable recommendations to answer the original business question:
 
 In summary, this is just Part I of the Starbucks Rewards Offer Marketing Attribution Data Science Project.
 
-This project will follow CRISP-DM, which stands for Cross-Industry Standard Process for Data Mining. It is a cross industry standard framework that serves as a guide for a data science process.
+This project will follow [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/), which stands for Cross-Industry Standard Process for Data Mining. It is a cross industry standard framework that serves as a guide for a data science process.
 
 Part I encompasses the Business Understanding, Data Understanding, and Data Preparation phases of the CRISP-DM model.
 
-Part II will be created a dashboard to display key metrics to help stakeholders focus on the business outcome, using some proof-of-concept visualizations in Phase I. I will be adding other relevant visualization like a map of stores in the country because according to the Starbucks 2022 SEC 10-K, Starbucks financial results and long-term growth will be driven by new store openings, store sales, and cost management, so mapping store expansion geographically seems important. 
+Part II will be created a dashboard to display key metrics to help stakeholders focus on the business outcome, using some proof-of-concept visualizations in Phase I. I will be adding other relevant visualization like a map of stores in the country because according to the [Starbucks 2022 SEC 10-K](https://s22.q4cdn.com/869488222/files/doc_financials/2023/ar/Starbucks-FY22-Annual-Report.pdf/), Starbucks financial results and long-term growth will be driven by new store openings, store sales, and cost management, so mapping store expansion geographically seems important. 
 
 Part III will be the modeling/evaluation/deployment phase in the data science process. Stay tuned!
 

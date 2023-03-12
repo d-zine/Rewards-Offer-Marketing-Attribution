@@ -175,7 +175,7 @@ Actionable recommendations to answer the original business question:
 
 3.	Continue to promote the best performing BOGO offer, which has a $5 difficulty and $5 reward.
 
-4.	Consider reducing $20 difficulty discount offers and $10 BOGO offers, which do not as well relative to existing reward offers because of their difficulty to complete. $20 appears to be too much to spend for the average consumer to be worth the reward. Another option is to consider pivoting these higher spend offers toward older/higher income customers. However, more analysis needs to be done to validate this is true.
+4.	Consider reducing $20 difficulty discount offers and $10 BOGO offers, which do not as well relative to existing reward offers because of their difficulty to complete. $20 appears to be too much to spend for the average consumer to be worth the reward. Another option is to consider pivoting these higher spend offers toward older/higher income customers. However, more analysis could be done to validate if this is a worthwhile experiment.
 
 
 
@@ -189,13 +189,13 @@ Actionable recommendations to answer the original business question:
 
 ### Conclusion
 
-In summary, this is just Part I of the Starbucks Rewards Offer Marketing Attribution Data Science Project.
+This is just Part I of the Starbucks Rewards Offer Marketing Attribution Data Science Project.
 
 This project will follow [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/), which stands for Cross-Industry Standard Process for Data Mining. It is a cross industry standard framework that serves as a guide for a data science process.
 
 Part I encompasses the Business Understanding, Data Understanding, and Data Preparation phases of the CRISP-DM model.
 
-Part II will be created a dashboard to display key metrics to help stakeholders focus on the business outcome, using some proof-of-concept visualizations in Phase I. I will be adding other relevant visualization like a map of stores in the country because according to the [Starbucks 2022 SEC 10-K](https://s22.q4cdn.com/869488222/files/doc_financials/2023/ar/Starbucks-FY22-Annual-Report.pdf), Starbucks financial results and long-term growth will be driven by new store openings, store sales, and cost management, so mapping store expansion geographically seems important. 
+Part II will be creating a dashboard to display key metrics to help stakeholders focus on the business outcome, using some proof-of-concept visualizations in Phase I. I will be adding other relevant visualization like a map of stores in the country because according to the [Starbucks 2022 SEC 10-K](https://s22.q4cdn.com/869488222/files/doc_financials/2023/ar/Starbucks-FY22-Annual-Report.pdf), Starbucks financial results and long-term growth will be driven by new store openings, store sales, and cost management, so mapping store expansion geographically seems important. 
 
 Part III will be the modeling/evaluation/deployment phase in the data science process. Stay tuned!
 

@@ -19,7 +19,7 @@ Starbucks is distinct from other loyalty programs in that it is more gamified. T
 This analysis will explore how Starbucks can use marketing attribution to optimize their rewards offer marketing strategy.  By doing so, Starbucks will drive user engagement and increase transactions and revenue, positively impacting the bottom line. Marketing attribution is how we determine how marketing tactics and user interactions contribute to sales. This information will be used to analyze which channels and marketing offers inspire consumers to act. This will be used to answer the two central business questions for business leaders to inform future marketing strategy of (a) who to target and (b) which types of marketing offer will incentivize the most purchases?
 
 
-To answer this question, I utilized a Starbucks reward offers dataset bundle from Kaggle which simulates the Starbucks Reward Program. It represents 76,277 marketing offers sent to 17,000 users, by offer type variant and channel, during a 30-day test period.
+To answer this question, I utilized a Starbucks reward offers dataset bundle from Kaggle which simulates the Starbucks Reward Program. It represents 76,277 marketing offers sent to 17,000 users, by offer type variant and channel, during a [30-day test period](https://pub.towardsai.net/starbucks-sales-analysis-part-1-2fff081f1c4f/).
 
 
 There are three tables:
@@ -45,7 +45,7 @@ The growth rate of Starbucks member user sign ups in our sample was exponential 
 <img src="images/2 Cohort Analysis.png" width=800>
 </p>
 
-Through cohort analysis, if we analyze transaction data by customer cohort sign up year, we find these customers represent $1.8M in Starbucks gross revenue over the course of a month. Calculating the average spend over one month shows that customers spend $3.5 per day at Starbucks, which is almost the price of a coffee or tea per day. While there were sharp increases in user sign ups between 2013 and 2017, the 2016 cohort spent the most on average per person.
+Through cohort analysis, if we analyze transaction data by customer cohort sign up year, we find these customers represent $1.8M in Starbucks gross revenue over the course of [a month](https://medium.com/analytics-vidhya/starbucks-reward-program-analysis-323b017f0c3e/). Calculating the average spend over one month shows that customers spend $3.5 per day at Starbucks, which is almost the price of a coffee or tea per day. While there were sharp increases in user sign ups between 2013 and 2017, the 2016 cohort spent the most on average per person.
 
 ### 3. Starbucks average spend increases with customer age. 
 

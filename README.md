@@ -195,7 +195,7 @@ This project will follow [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/),
 
 Part I encompasses the Business Understanding, Data Understanding, and Data Preparation phases of the CRISP-DM model.
 
-Part II will be created a dashboard to display key metrics to help stakeholders focus on the business outcome, using some proof-of-concept visualizations in Phase I. I will be adding other relevant visualization like a map of stores in the country because according to the [Starbucks 2022 SEC 10-K](https://s22.q4cdn.com/869488222/files/doc_financials/2023/ar/Starbucks-FY22-Annual-Report.pdf/), Starbucks financial results and long-term growth will be driven by new store openings, store sales, and cost management, so mapping store expansion geographically seems important. 
+Part II will be created a dashboard to display key metrics to help stakeholders focus on the business outcome, using some proof-of-concept visualizations in Phase I. I will be adding other relevant visualization like a map of stores in the country because according to the [Starbucks 2022 SEC 10-K](https://s22.q4cdn.com/869488222/files/doc_financials/2023/ar/Starbucks-FY22-Annual-Report.pdf), Starbucks financial results and long-term growth will be driven by new store openings, store sales, and cost management, so mapping store expansion geographically seems important. 
 
 Part III will be the modeling/evaluation/deployment phase in the data science process. Stay tuned!
 

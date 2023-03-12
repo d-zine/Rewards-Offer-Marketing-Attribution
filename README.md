@@ -79,7 +79,7 @@ A short-term tactic is to offer a free good or pair a free good with a condition
 
 The user tenure is defined as when they signed up to the Starbucks rewards program, which is how they can digitally receive rewards offers. This may be a useful feature in customer segmentation.
 
-Now that we understand our customers better, let’s examine the influence of reward offers on user behavior.
+### Now that we understand our customers better, let’s examine the influence of reward offers on user behavior.
 
 ### 1.	While reward offers influences user behavior, some members purchase independent of offers.
 
@@ -107,7 +107,7 @@ Typical marketing funnels narrow to form an inverted triangle the further you tr
 <img src="images/2 3 Response Rate of Offer Type Variant.png" width=800>
 </p>
 
-### 4.	Offers with the same difficulty and reward perform better with a longer offer duration.
+### 5.	Offers with the same difficulty and reward perform better with a longer offer duration.
 
 <p align="center">
 <img src="images/2 4 Same Difficulty & Reward.png" width=800>
@@ -117,7 +117,7 @@ Difficulty in this context is how much you need to spend to get the reward.
 
 The longer the offer is available, the likelier it is that the user will get the opportunity to act on it and complete the rewards offer.
 
-### 5.	The top 10 performing rewards offers are typically completed by females and are discount offers that have a 7-10 duration to complete.
+### 6.	The top 10 performing rewards offers are typically completed by females and are discount offers that have a 7-10 duration to complete.
 
 <p align="center">
 <img src="images/2 5 Response Rate of Offer Type Variant.png" width=800>
@@ -129,13 +129,13 @@ The same trend by gender is also what is observed at the aggregate level.
 
 Note: I wanted to create a leaderboard ranking from highest to lowest to measure the relative performance of reward offers based on offers completed/offers received. This is a a proof of concept for my future dashboard that is most intuitive and interpretable to users. 
 
-### 6.	Emails were used most frequently to complete offers, followed by mobile & web, and then social. However, it’s essentially a tie in channel effectiveness.
+### 7.	Emails were used most frequently to complete offers, followed by mobile & web, and then social. However, it’s essentially a tie in channel effectiveness.
 
 <p align="center">
 <img src="images/2 6 Channel Effectiveness.png" width=800>
 </p>
 
-### 7.	Discount offers have a higher response rate and a higher likelihood of completion conditional on being viewed.
+### 8.	Discount offers have a higher response rate and a higher likelihood of completion conditional on being viewed.
 
 <p align="center">
 <img src="images/2 7 Response Rate Metrics.png" width=900>
@@ -144,6 +144,7 @@ Note: I wanted to create a leaderboard ranking from highest to lowest to measure
 Response rates are higher if the user views the offer. This is true for both Discount and BOGO offers.
 
 Direct Response Rate = Number of Offers Completed / Number of Offers Received
+
 Conversion Rate = Number of Offers Completed / Number of Offers Viewed
 
 If you can get users to view the discount offers, the response rate jumps from 60% to 85%, which is a 25% difference. For BOGO offers, the response rate jumps from 50% to 60%, a 10% difference. Bottom line: it is strategic to get users to be positively engaged in the long run. However, be cognizant of spam / messaging fatigue that can also detract from user engagement.

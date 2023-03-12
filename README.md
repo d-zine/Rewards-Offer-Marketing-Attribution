@@ -33,25 +33,49 @@ Let’s understand our customers in this dataset through descriptive statistics 
 
 ### 1.	Starbucks member user growth in this sample is exponential. 
 
+<p align="center">
+<img src="images/1 User Growth.png" width=400>
+</p>
+
 The growth rate of Starbucks member user sign ups in our sample was exponential from 2013-2017, which demonstrates the popularity of this loyalty program. Note: the exponential trend does not appear to hold in 2018, possibly because it is a partial year of data. 
 
-
 ### 2.	Starbucks members are high value.
+
+<p align="center">
+<img src="images/2 Cohort Analysis.png" width=800>
+</p>
+
 Through cohort analysis, if we analyze transaction data by customer cohort sign up year, we find these customers represent $1.8M in Starbucks gross revenue over the course of a month. Calculating the average spend over one month shows that customers spend $3.5 per day at Starbucks, which is almost the price of a coffee or tea per day. While there were sharp increases in user sign ups between 2013 and 2017, the 2016 cohort spent the most on average per person.
 
 ### 3. Starbucks average spend increases with customer age. 
+
+<p align="center">
+<img src="images/3 Avg Spend by Age Group.png" width=700>
+</p>
 
 I wanted to use a more statistical approach to binning. Using Sturges rule from Statistics to determine the optimal number of bins (log2N + 1), 15 bins were prescribed. After comparing their average transactions over time, I was comfortable grouping the higher transaction age groups into four groups. 
 Starbucks average spend increases with customer age. Customers aged 51-67 spend 50% more than those between 18-34, on average.  As age is correlated with income (r = 0.32), it is no surprise that the average spend increases with age. Based on this pattern, Starbucks should send offers that appeal to customers based on their age group. This could take the form of discount offers aimed at young, cost-conscious customers (age 18-34) and rewards to older customers that incentivize more frequent or higher average order values (ages 35 and up).
 
 ### 4. Starbucks members who are female between spend more than males on average across age groups.
 
+<p align="center">
+<img src="images/4 Avg Spend by Age Group & Gender.png" width=550>
+</p>
+
 ### 5. There is opportunity to activate 2.5% of inactive members.
+
+<p align="center">
+<img src="images/5 Active vs Inactive Members.png" width=500>
+</p>
 
 Active members are defined by spending > $0 in the time range of this dataset. Inactive members are defined as spending $0 in the time range of this dataset.
 A short-term tactic is to offer a free good or pair a free good with a conditional action to inactive members, similar to the free bakery item members can get on their birthday. A long-term tactic would apply that to  loyalty discount offers for members who are consistently active so inactive members are incentivized to participate.
 
 ### 6. The average user tenure is 6 years, ranging between 4.5 and 9.5 years.
+
+<p align="center">
+<img src="images/6 User Tenure.png" width=400>
+</p>
 
 The user tenure is defined as when they signed up to the Starbucks rewards program, which is how they can digitally receive rewards offers. This may be a useful feature in customer segmentation.
 
@@ -59,19 +83,45 @@ Now that we understand our customers better, let’s examine the influence of re
 
 ### 1.	While reward offers influences user behavior, some members purchase independent of offers.
 
+<p align="center">
+<img src="images/2 1 Funnel Analysis.png" width=800>
+</p>
+
 Typical marketing funnels narrow to form an inverted triangle the further you travel through the funnel. This shows that transactions are made independent of offers. Some users make transactions independent of using rewards they have seen, probably because they were unaware, forgot, were in a hurry, or intended to redeem later.
 
-### 2. The likelihood of completing an offer after receiving an offer increases with age and income. Females respond more than males to reward offers. 
+### 2. The likelihood of completing an offer after receiving an offer increases with age and income. 
 
-### 3.	A majority of the top 5 performing offer variants are discount reward offers. The best performing BOGO offers are $5 difficulty and $5 reward. The bottom 3 performing offer variants are $20 difficulty discount and $10 BOGO offers.
+<p align="center">
+<img src="images/2 2 Age & Income Group Segment.png" width=800>
+</p>
+
+### 3. Females respond more than males to reward offers.
+
+<p align="center">
+<img src="images/2 2 Gender Segment.png" width=400>
+</p>
+
+### 4.	A majority of the top 5 performing offer variants are discount reward offers. The best performing BOGO offers are $5 difficulty and $5 reward. The bottom 3 performing offer variants are $20 difficulty discount and $10 BOGO offers.
+
+<p align="center">
+<img src="images/2 3 Response Rate of Offer Type Variant.png" width=800>
+</p>
 
 ### 4.	Offers with the same difficulty and reward perform better with a longer offer duration.
+
+<p align="center">
+<img src="images/2 4 Same Difficulty & Reward.png" width=800>
+</p>
 
 Difficulty in this context is how much you need to spend to get the reward.
 
 The longer the offer is available, the likelier it is that the user will get the opportunity to act on it and complete the rewards offer.
 
 ### 5.	The top 10 performing rewards offers are typically completed by females and are discount offers that have a 7-10 duration to complete.
+
+<p align="center">
+<img src="images/2 5 Response Rate of Offer Type Variant.png" width=800>
+</p>
 
 The best performing BOGO offer by gender is valued at $5.
 The bottom performing offers by gender are $20 difficulty discount & $10 BOGO offers.
@@ -81,7 +131,15 @@ Note: I wanted to create a leaderboard ranking from highest to lowest to measure
 
 ### 6.	Emails were used most frequently to complete offers, followed by mobile & web, and then social. However, it’s essentially a tie in channel effectiveness.
 
+<p align="center">
+<img src="images/2 6 Channel Effectiveness.png" width=800>
+</p>
+
 ### 7.	Discount offers have a higher response rate and a higher likelihood of completion conditional on being viewed.
+
+<p align="center">
+<img src="images/2 7 Response Rate Metrics.png" width=900>
+</p>
 
 Response rates are higher if the user views the offer. This is true for both Discount and BOGO offers.
 

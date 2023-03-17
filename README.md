@@ -104,7 +104,7 @@ Typical marketing funnels narrow to form an inverted triangle the further you tr
 ### 4.	A majority of the top 5 performing offer variants are discount reward offers. The best performing BOGO offers are $5 difficulty and $5 reward. The bottom 3 performing offer variants are $20 difficulty discount and $10 BOGO offers.
 
 <p align="center">
-<img src="images/2 3 Response Rate of Offer Type Variant.png" width=800>
+<img src="images/2 Y Axis.png" width=1000>
 </p>
 
 ### 5.	Offers with the same difficulty and reward perform better with a longer offer duration.

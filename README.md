@@ -175,7 +175,7 @@ Actionable recommendations to answer the original business question:
 
 3.	Continue to promote the best performing BOGO offer, which has a $5 difficulty and $5 reward.
 
-4.	Consider reducing $20 difficulty discount offers and $10 BOGO offers, which do not as well relative to existing reward offers because of their difficulty to complete. $20 appears to be too much to spend for the average consumer to be worth the reward. Another option is to consider pivoting these higher spend offers toward older/higher income customers. However, more analysis could be done to validate if this is a worthwhile experiment.
+4.	Consider reducing $20 difficulty discount offers and $10 BOGO offers, which do not perform as well relative to existing reward offers because of their difficulty to complete. $20 appears to be too much to spend for the average consumer to be worth the reward. Another option is to consider pivoting these higher spend offers toward older/higher income customers. However, more analysis could be done to validate if this is a worthwhile experiment.
 
 
 
